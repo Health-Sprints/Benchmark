@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+<ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="de">
   <head>
-    <meta name="dtb:fidus" content="92" />
+    <meta name="dtb:fidus" content="88" />
   </head>
   <docTitle>
-    <text>Crisis Management Benchmark</text>
+    <text>Benchmark</text>
   </docTitle>
   <navMap>
 
@@ -14,64 +14,8 @@
       <content src="titlepage.xhtml#title" />
     </navPoint>
     <navPoint id="t_1_0-1">
-      <navLabel><text>CRI000: Front Matter</text></navLabel>
+      <navLabel><text>Chapter 1</text></navLabel>
       <content src="document-1.xhtml#_1_0" />
-      <navPoint id="tH353005-1">
-        <navLabel><text>Title page</text></navLabel>
-        <content src="document-1.xhtml#H353005" />
-      </navPoint>
-      <navPoint id="tH6627615-1">
-        <navLabel><text>Pre-release v1.0</text></navLabel>
-        <content src="document-1.xhtml#H6627615" />
-      </navPoint>
-      <navPoint id="tH8111132-1">
-        <navLabel><text>Publication details</text></navLabel>
-        <content src="document-1.xhtml#H8111132" />
-      </navPoint>
-      <navPoint id="tH2129478-1">
-        <navLabel><text>About us</text></navLabel>
-        <content src="document-1.xhtml#H2129478" />
-        <navPoint id="tH1593607-1">
-          <navLabel><text>Funding</text></navLabel>
-          <content src="document-1.xhtml#H1593607" />
-        </navPoint>
-        <navPoint id="tH3712911-1">
-          <navLabel><text>Open access</text></navLabel>
-          <content src="document-1.xhtml#H3712911" />
-        </navPoint>
-        <navPoint id="tH7708600-1">
-          <navLabel><text>Copyright notice and licence</text></navLabel>
-          <content src="document-1.xhtml#H7708600" />
-        </navPoint>
-        <navPoint id="tH7096628-1">
-          <navLabel><text>Help us to improve the textbook</text></navLabel>
-          <content src="document-1.xhtml#H7096628" />
-        </navPoint>
-        <navPoint id="tH2766812-1">
-          <navLabel><text>Sustainability and further development</text></navLabel>
-          <content src="document-1.xhtml#H2766812" />
-        </navPoint>
-        <navPoint id="tH99013-1">
-          <navLabel><text>Method</text></navLabel>
-          <content src="document-1.xhtml#H99013" />
-        </navPoint>
-        <navPoint id="tH691848-1">
-          <navLabel><text>How the textbook was produced</text></navLabel>
-          <content src="document-1.xhtml#H691848" />
-        </navPoint>
-        <navPoint id="tH8101608-1">
-          <navLabel><text>Disclaimer</text></navLabel>
-          <content src="document-1.xhtml#H8101608" />
-        </navPoint>
-      </navPoint>
-      <navPoint id="tH7919849-1">
-        <navLabel><text>Authors</text></navLabel>
-        <content src="document-1.xhtml#H7919849" />
-      </navPoint>
-      <navPoint id="tH6834922-1">
-        <navLabel><text>Acknowledgements and thanks</text></navLabel>
-        <content src="document-1.xhtml#H6834922" />
-      </navPoint>
     </navPoint>
     <navPoint id="t2">
       <navLabel><text>Copyright</text></navLabel>
